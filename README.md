@@ -61,7 +61,9 @@ Helps businesses make strategic decisions
   https://github.com/pavanithasivani/Swiggy_PowerBI_Dashboard/blob/main/SnapshotOfDashboard1.png
 
 🔹 User Performance
+
 https://github.com/pavanithasivani/Swiggy_PowerBI_Dashboard/blob/main/SnapshotOfDashboard2.png
+
 🔹 City Overview
 
 🔹 Restaurant Analysis
