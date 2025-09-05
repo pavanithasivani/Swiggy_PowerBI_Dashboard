@@ -54,8 +54,10 @@ Dynamic filters for city, year, and food type
 Helps businesses make strategic decisions
 
 📸 Dashboard Screenshots
+
+
 🔹 Overview Page
-  
+  https://github.com/pavanithasivani/Swiggy_PowerBI_Dashboard/blob/main/SnapshotOfDashboard1.png
 🔹 User Performance
 
 🔹 City Overview
