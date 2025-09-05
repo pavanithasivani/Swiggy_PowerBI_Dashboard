@@ -66,4 +66,6 @@ https://github.com/pavanithasivani/Swiggy_PowerBI_Dashboard/blob/main/SnapshotOf
 
 🔹 City Overview
 
+https://github.com/pavanithasivani/Swiggy_PowerBI_Dashboard/blob/main/SnapshotOfDashboard3.png
+
 🔹 Restaurant Analysis
