@@ -69,3 +69,5 @@ https://github.com/pavanithasivani/Swiggy_PowerBI_Dashboard/blob/main/SnapshotOf
 https://github.com/pavanithasivani/Swiggy_PowerBI_Dashboard/blob/main/SnapshotOfDashboard3.png
 
 🔹 Restaurant Analysis
+
+https://github.com/pavanithasivani/Swiggy_PowerBI_Dashboard/blob/main/SnapshotOfDashboard4.png
