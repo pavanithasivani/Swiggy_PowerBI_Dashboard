@@ -58,7 +58,7 @@ Helps businesses make strategic decisions
 
 🔹 Overview Page
 
-  https://github.com/pavanithasivani/Swiggy_PowerBI_Dashboard/blob/main/SnapshotOfDashboard1.png
+ ![image alt](https://github.com/pavanithasivani/Swiggy_PowerBI_Dashboard/blob/8abc49bdd7b42ee3992e55bf8d610a813235871a/SnapshotOfDashboard1.png)
 
 🔹 User Performance
 
